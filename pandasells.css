@@ -271,7 +271,7 @@ ul {
       padding: 0 10px;
     }
 footer li a{
-    color: #444;
+    color: rgb(172, 171, 171);
     } 
   span {
     margin-right: 85px;
@@ -279,9 +279,9 @@ footer li a{
     display: flex;
     justify-content: flex-end;
     font-size: 0.9em;
-    color: #444;
+    color: rgb(172, 171, 171);
 }
 
-footer > li > a{
+/* footer > li > a{
     color: #444;
-}
+} */
