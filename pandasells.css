@@ -137,7 +137,7 @@ button{
 }
 #products{
     background-image: url("portrait.jpg");
-    background-size: cover;
+    /* background-size: cover; */
 }
 .content2{
     display: flex;
