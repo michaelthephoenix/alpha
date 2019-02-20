@@ -148,7 +148,7 @@ button{
     border-radius: 6px;
 }
 #products{
-    background-image: url("portrait.jpg");
+    background-image: url("Portrait.jpg");
     background-size: cover;
     /* background-color:#1565c0; */
 }
@@ -156,7 +156,6 @@ button{
     display: flex;
     width: 1050px;
     height: auto;
-    /* border: 1px solid rgb(68, 68, 68); */
     margin: 0 auto;
     justify-content: space-evenly;
     padding-top:20px;
@@ -213,11 +212,9 @@ button{
     font-size: 60px;
     text-align: center;
     font-family: Comfortaa;
-    /* margin-top: 20px; */
     border-top: 40px;
     padding-top: 10px;
     color: black;
-    /* background-color: gray; */
 
 }
 div img{
