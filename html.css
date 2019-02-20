@@ -1,0 +1,10 @@
+body{
+    background-image: url("Inbox.jpg");
+    font-size: 200px;
+    font-family: 'Comforta';
+}
+
+p{
+    margin: 100px;
+    text-align: center;
+}
