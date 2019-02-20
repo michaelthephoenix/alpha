@@ -57,6 +57,18 @@ li a{
 nav ul li a:hover{
     color: rgb(209, 185, 233);
 }
+nav ul li a::before{
+    content: "";
+    width: 0%;
+    height: 3px;
+    display: block;
+    background-color:rgb(120, 60, 180); 
+    margin-bottom: 10px;
+}
+nav ul li a:hover::before{
+    width: 100%;
+    transition: all .5s;
+}
 .intro{
     margin-left: 150px;
     text-align: left;
