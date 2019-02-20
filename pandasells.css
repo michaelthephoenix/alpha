@@ -136,8 +136,9 @@ button{
     border-radius: 6px;
 }
 #products{
-    background-image: url("portrait.jpg");
+    /* background-image: url("portrait.jpg"); */
     /* background-size: cover; */
+    background-color: #8e9eab;
 }
 .content2{
     display: flex;
