@@ -3,7 +3,8 @@ body{
 }
 
 .main_content{ 
-    background-image: url("Inbox.jpg");
+    /* background-image: url("Mystic.jpg"); */
+    background-color:#858EA6;
 }
 
 header{
@@ -60,7 +61,7 @@ nav ul li a:hover{
 nav ul li a::before{
     content: "";
     width: 0%;
-    height: 3px;
+    height: 4px;
     display: block;
     background-color:rgb(120, 60, 180); 
     margin-bottom: 10px;
@@ -260,6 +261,7 @@ footer > p{
     padding: 5px;
     padding-top: 12px;
     font-family: Comfortaa;
+    color: rgb(248, 226, 226);
 }
 ul {
     display: flex;
@@ -273,7 +275,7 @@ ul {
       padding: 0 10px;
     }
 footer li a{
-    color: #444;
+    color: rgb(248, 226, 226);
     } 
   span {
     margin-right: 85px;
@@ -281,9 +283,9 @@ footer li a{
     display: flex;
     justify-content: flex-end;
     font-size: 0.9em;
-    color: #444;
+    color: rgb(218, 216, 216);
 }
 
 footer > li > a{
-    color: #444;
+    color: rgb(218, 216, 216);
 }
